@@ -1,0 +1,42 @@
+.hp{
+    background-color: tomato;
+    Font-size: 14px;
+ 
+} 
+
+.companyHeading{
+    text-align:center;
+}
+
+.hp h1, .hp h3{
+    font-size: 30px;
+}
+
+.LinkToAbout{
+    background-color: yellow;
+    color: black;
+
+}
+
+.LinkToAbout:hover{
+    background-color: black;
+    color: yellow;
+}
+
+.bannerIMG{
+    width: 100%;
+
+}
+
+/* About Page */
+
+.aboutContent{
+    width: 50%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.apg img{
+    width: 49%;
+
+}
